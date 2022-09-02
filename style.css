@@ -1,1 +1,171 @@
+h2 {
+ font-family: serif;
+}
+.sm9 {
+ border-radius: 159px;
+ background-color: black;
+ color: #00ff7f;
+ border: dashed;
+ font-family: serif;
+ padding-left: 6px;
+ padding-right: 6px;
+}
+.sm99 {
+ border-radius: 159px;
+ background-color: black;
+ color: #ff0000;
+ border: dashed;
+ font-family: serif;
+ padding-left: 7px;
+ padding-right: 6px;
+ }
+ .note {
+background-color: yellow;
+padding: 12px;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 4px;
+border-left: 5px solid gold;
+}
+.img {
+ border-radius: 7px;
+ background-color: #ffffff;
+ }
+ .mbem 
+ {
+  border-radius: 800px;
+ }
+ blockquote 
+ {
+  text-decoration: blink;
+ }
+ h1 {
+  text-shadow: 2px 2px 2px, #000000;
+  }
+ 
+.beats 
+{
+ background-color: black;
+ filter: contrast(%);
+ filter: saturate(170%);
+ border-radius: 0px;
+}
+ssm9
+{
+ text-shadow: 2px 2px 1px grey;
+ font-family: serif;
+}
+font 
+{
+ font-family: cursive;
+}
+.email
+{
+ color: #000000;
+}
+html 
+{
+ background-color: darkwhite;
+}
+.facebook 
+{
+ color: blue;
+}
+a {
+ text-decoration: blink;
+}
+ .send 
+ {
+  background-color: green;
+ }
+  .reset
+ {
+  background-color: red;
+ }
+   .gender
+ {
+  background-color: purple;
+ }
+.beats {
+  background-image: url('https://wallpaperaccess.com/full/1302754.jpg');
+padding: 40px;
+ }
+ h5 {
+  text-align: center;
+ }
+ .sort 
+ {
+  border-radius: 92px;
+  background-color: black;
+  color: white;
+  align: left;
+  text-align: left;
+  display: inline-block;
+  vertical-align: left;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 7px;
+  padding-right: 7px;
+ 
+ }
+ .font 
+ {
+  font-family: fantasy;
+ }
+ .back 
+ {
+  font-size: 29px;
+ }
+ sm9 {
+font-family: serif;
+}
+a {
+ text-decoration: blink
+}
+h4 
+{
+ display: inline-block;
+}
 
+{
+ display: inline-block;
+}
+iframe {
+border-radius: 7px;
+width: 340px;
+}
+.int 
+{
+ background-color: #00bfff;
+}
+.all {
+text-align: center;
+}
+a.fab 
+{
+ font-size: 30px;
+ text-decoration: blink;
+}
+.fa-facebook-square
+{
+ color: royalblue;
+ background-color: white;
+}
+.fa-instagram-square
+{
+ color: hotpink;
+ background-color: #fff;
+}
+.fa-whatsapp-square
+{
+ color: limegreen;
+ background-color: #fff;
+}
+.fa-youtube
+{
+ color: red;
+ background-color: white;
+}
+div.cc {
+padding-top: 5px;
+}
