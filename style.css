@@ -144,12 +144,12 @@ a.fab
  font-size: 30px;
  text-decoration: blink;
 }
-.fa-facebook-square
+.fa-square-facebook
 {
  color: royalblue;
  background-color: white;
 }
-.fa-instagram-square
+.fa-square-instagram
 {
  color: hotpink;
  background-color: #fff;
@@ -159,7 +159,7 @@ a.fab
  color: limegreen;
  background-color: #fff;
 }
-.fa-youtube
+.fa-square-youtube
 {
  color: red;
  background-color: white;
