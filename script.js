@@ -1,3 +1,11 @@
+var firstName = prompt("What is your first name?");
+      
+      if(firstName == "") {
+         alert("You did not enter a value.");
+      } else {
+         alert("Hi " + firstName + ", Share our Website to your Friends, Family Members & Relatives "); 
+      }
+
 const shareData = {
  title: 'Mauli Beats',
  text: 'If you want any 🎷 Musician 🎺 or 🎸 Instrumental band 🥁 Go Through this Link👇🏻',
