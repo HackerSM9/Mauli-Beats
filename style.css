@@ -154,6 +154,9 @@ a.fab
  color: hotpink;
  background-color: #fff;
 }
+.fa-brands {
+font-size: 25px;
+}
 .fa-whatsapp-square
 {
  color: limegreen;
