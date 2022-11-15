@@ -1,6 +1,7 @@
 @import url("../../Fonts/fonts.css");
 
 h1 {
+text-align: center;
 font-family: 'Kumar One Outline', cursive;
 }
 .home_img {
